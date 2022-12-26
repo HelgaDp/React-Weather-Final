@@ -1,0 +1,28 @@
+.Card {
+    width: 90%;
+    max-width: 400px;
+    padding: 5rem 2.5rem;
+    
+    border-radius: 1rem;
+    border: 1px solid transparent;
+   
+      .cb1 {
+        background-color: #73155a;
+        margin-top: 72px;
+        margin-bottom: 70px;
+        margin-left: -30px;
+        margin-right: -10px;
+        border-radius: 1rem;
+      
+       
+      }
+      .cb2 {
+        background: color: #91898f;
+       color: #73155a;
+        margin-top: 20px;
+        margin: 60px;
+        margin-left: 20px;
+      }
+
+
+      
