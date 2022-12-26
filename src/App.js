@@ -10,8 +10,8 @@ export default function App() {
           <Weather defaultCity="Dnipro"/>
           <footer>
             This project was coded by {" "} 
-            <a className='Link-Color' href='https:https://velvety-douhua-e457d9.netlify.app/' target="_blank" rel="noreferrer">Olga Petrunenko</a>{" "}and is{" "}
-            <a className='Link-Color' href='https://github.com/HelgaDp/Week5' target="_blank" rel="noreferrer">open-soursed on GitHub</a>
+            <a className='Link-Color' href='https://starlit-halva-27ce6e.netlify.app/' target="_blank" rel="noreferrer">Olga Petrunenko</a>{" "}and is{" "}
+            <a className='Link-Color' href='https://github.com/HelgaDp/React-Weather-Final' target="_blank" rel="noreferrer">open-soursed on GitHub</a>
           </footer>
      </div>
   </div>
