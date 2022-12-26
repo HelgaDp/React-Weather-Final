@@ -3,17 +3,17 @@
     border: 1px solid #dadde1;
     padding: 16px;
     border-radius: 6px;
-    color: #241f2a;
+    color: #45256b;
     background-image: url(https://images.pexels.com/photos/1478524/pexels-photo-1478524.jpeg) ;
     background-size: cover;
   }
   .btn:hover {
-    background-color: #584c66;
+    background-color: #3e407a;
   }
   
   .Weather h1 {
     
-    color:  #584c66;
+    color: #3e407a;
     font-size: 30px;
     font-weight: 100;
     margin: 30px 0 0 0;
